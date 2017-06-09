@@ -1,5 +1,4 @@
 package practicum_1_1;
-//TEST!
 
 import java.net.Socket;
 import java.io.OutputStream;
